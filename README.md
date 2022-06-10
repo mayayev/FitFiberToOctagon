@@ -9,3 +9,5 @@ The purpose of this algorithm is to fit fiber cross section images to the projec
 * Concentricity face to face 
 
 * Concentricity edge to edge
+
+Main code is /octagon_direct_fit.m/ 
