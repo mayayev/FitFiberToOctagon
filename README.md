@@ -10,4 +10,6 @@ The purpose of this algorithm is to fit fiber cross section images to the projec
 
 * Concentricity edge to edge
 
-Main code is /octagon_direct_fit.m/ 
+*octagon_fit.m* open a GUI where the user can enter their image of an octagonal inner cladding optical fiber. The GUI calls an edge detection algorithm to find points on the circumference of the octagon. 
+
+*octagon_direct_fit.m* receives a set of points and produces the enclosing and enclosed ellipsoids.
